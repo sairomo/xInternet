@@ -1,0 +1,3 @@
+[submodule "xinternet-static"]
+	path = xinternet-static
+	url = https://www.github.com/sairomo/xinternet-static.git
